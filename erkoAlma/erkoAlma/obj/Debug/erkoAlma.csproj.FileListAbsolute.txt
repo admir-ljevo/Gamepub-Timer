@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\erkoAlma\erkoAlma\bin\Debug\erkoAlma.exe.config
+C:\Users\HP\source\repos\erkoAlma\erkoAlma\bin\Debug\erkoAlma.exe
+C:\Users\HP\source\repos\erkoAlma\erkoAlma\bin\Debug\erkoAlma.pdb
+C:\Users\HP\source\repos\erkoAlma\erkoAlma\obj\Debug\erkoAlma.Form1.resources
+C:\Users\HP\source\repos\erkoAlma\erkoAlma\obj\Debug\erkoAlma.Properties.Resources.resources
+C:\Users\HP\source\repos\erkoAlma\erkoAlma\obj\Debug\erkoAlma.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\erkoAlma\erkoAlma\obj\Debug\erkoAlma.exe
+C:\Users\HP\source\repos\erkoAlma\erkoAlma\obj\Debug\erkoAlma.pdb
+C:\Users\HP\source\repos\erkoAlma\erkoAlma\obj\Debug\erkoAlma.csprojAssemblyReference.cache
